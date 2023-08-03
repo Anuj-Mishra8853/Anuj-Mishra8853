@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello folks, I'm python Developer and recently i'm graduated in master of computer application and i've skilled in problem solving and enhancing my technical skills, learning new things and push my projects here.<br>Here are the field titles in which I'm interseted in -<br>·>DevOps Engineer <br>·> Cloud Operations Engineer <br>·> Automation Engineer <br>·> Linux System Administrator <br>·> Network Engineer
+Hello folks, I'm Python Developer and recently i'm graduated in master of computer application and i've skilled in problem solving and enhancing my technical skills, learning new things and push my projects here.<br>Here are the field titles in which I'm interseted in -<br>·>DevOps Engineer <br>·> Cloud Operations Engineer <br>·> Automation Engineer <br>·> Linux System Administrator <br>·> Network Engineer
 
 
 ## 🌐 Socials:
